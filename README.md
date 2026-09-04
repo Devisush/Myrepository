@@ -41,3 +41,12 @@ def add(a, b):
 local function add(a, b)
     return a+b
 end
+```
+
+### C#:
+
+```CS
+public int Add(int a, int b)
+{
+    return a+b;
+}
