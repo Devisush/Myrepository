@@ -1,6 +1,7 @@
 # Заголовок 1:
 ## Заголовок 2
-### Заголовок 4
+### Заголовок 3
+#### Заголовок 4
 
 *Курсив*
 
@@ -12,6 +13,8 @@
 
 <u>Нижнее подчекивание</u>
 
+# Пункты
+
 - a
 - b
     - c
@@ -20,13 +23,13 @@
 1. Пункт 2
 1. Пункт 3
 
+# Ссылки/картинки
+
 [Репозиторий](/Myrepository/README.md)
 
 [Ютуб](https://www.youtube.com)
 
 ![Кот](https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0e/Felis_silvestris_silvestris.jpg/330px-Felis_silvestris_silvestris.jpg?utm_source=ru.wikipedia.org&utm_campaign=parser&utm_content=thumbnail)
-
-![a](/Myrepository/foxgirl_petted.jpg)
 
 ```py
 def a():
@@ -43,8 +46,8 @@ def a():
 - [x] выполнено
 - [ ] не выполнено
 
-Навигация по документу
+### Навигация по документу (якоря):
 
-- []()
-- []()
-- []()
+- [Начало](#заголовок-1)
+- [Пункты](#пункты)
+- [Ссылки и картинки](#ссылкикартинки)
