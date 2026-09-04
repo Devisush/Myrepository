@@ -1,2 +1,50 @@
-# Myrepository
-👍👍👍
+# Заголовок 1:
+## Заголовок 2
+### Заголовок 4
+
+*Курсив*
+
+**Жирный**
+
+***Жирный курсив***
+
+~~Зачеркнутое~~
+
+<u>Нижнее подчекивание</u>
+
+- a
+- b
+    - c
+
+1. Пункт 1
+1. Пункт 2
+1. Пункт 3
+
+[Репозиторий](/Myrepository/README.md)
+
+[Ютуб](https://www.youtube.com)
+
+![Кот](https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0e/Felis_silvestris_silvestris.jpg/330px-Felis_silvestris_silvestris.jpg?utm_source=ru.wikipedia.org&utm_campaign=parser&utm_content=thumbnail)
+
+![a](/Myrepository/foxgirl_petted.jpg)
+
+```py
+def a():
+    return 1
+```
+
+> "Цитата!"
+
+| Заголовок 1 | Заголовок 2 | Заголовок 3 |
+|-------------|-------------|-------------|
+| Ячейка 1    | Ячейка 2    | Ячейка 3    |
+| Ячейка 4    | Ячейка 5    | Ячейка 6    |
+
+- [x] выполнено
+- [ ] не выполнено
+
+Навигация по документу
+
+- []()
+- []()
+- []()
