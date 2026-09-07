@@ -114,3 +114,23 @@ cp file_name.txt new_folder/
 ```shell
 mv file_name.txt new_folder/
 ```
+
+Удалить файл:
+```shell
+rm file_name.txt
+```
+
+Удалить папку:
+```shell
+rm -rf folder
+```
+
+Создать несколько файлов:
+```shell
+touch {1..3}.txt
+```
+
+Создать несколько каталогов:
+```shell
+mkdir folderName(1..4)
+```
