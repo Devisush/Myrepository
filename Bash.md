@@ -85,3 +85,32 @@ Unix/Linux/Android/MacOS/iOS/BSD: `/` - корневой каталог
 ```shell
 cd ..//..
 ```
+
+### Создание файлов и каталогов
+
+Создание файлов:
+```shell
+touch file_name.txt
+```
+
+Редактировать текстовый файл:
+```shell
+micro file_name.txt
+```
+- `micro` - текстовый редактор командной строки
+- сохранить через `Ctrl+S` и выйти из редактора `Ctrl+Q`
+
+Переименовать файл:
+```shell
+mw old_name new_name
+```
+
+Копирование файла:
+```shell
+cp file_name.txt new_folder/
+```
+
+Переместить файл:
+```shell
+mv file_name.txt new_folder/
+```
