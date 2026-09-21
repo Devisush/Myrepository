@@ -2,4 +2,7 @@
 
 У Bash 2 слоя: bash - командная страка (**Bash CLI**), и Bash - язык программирования
 
-- `sh FileName.sh` - запустить файл
+1. Запуск файлов на Bash
+- `sh myScript.sh`
+- `bash myScript.sh`
+- `./myScript.sh`
