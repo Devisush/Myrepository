@@ -105,6 +105,7 @@ git remote show origin
 ```shell
 git branch
 ```
+Получить список удаленных веток
 ```shell
-git branch --v
+git remote --v
 ```
