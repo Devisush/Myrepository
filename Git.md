@@ -117,5 +117,21 @@ git log
 ```shell
 git log -p
 ```
+Получить хэши и их коммиты:
+```shell
+git log --oneline
+```
+После внесения изменений можно подготовить и закоммитить результат:
+```shell
+git add .
+```
+и
+```shell
+git commit -m "Message"
+```
+Чтобы изменить текст последнего коммита:
+```shell
+git commit -amend "Message"
+``
 
 > **Выйти из режима логов: `Q`**
