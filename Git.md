@@ -132,6 +132,6 @@ git commit -m "Message"
 Чтобы изменить текст последнего коммита:
 ```shell
 git commit -amend "Message"
-``
+```
 
 > **Выйти из режима логов: `Q`**
