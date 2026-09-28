@@ -136,6 +136,17 @@ git commit -amend "Message"
 
 > **Выйти из режима логов: `Q`**
 
+Переместиться в старый коммит:
 ```shell
-git checkout id
+git checkout commitID
+```
+
+Удалить локальную ветку
+```shell
+git branch -d test
+```
+
+Удалить удаленную ветку
+```shell
+git push origin --delete test
 ```
