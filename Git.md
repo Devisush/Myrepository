@@ -1,5 +1,7 @@
 # Основы Git
 
+![a](https://thecode.media/wp-content/uploads/2023/07/snimok-ekrana-2023-07-26-145006.png)
+
 ## Зачем Git?
 
 ### Почему не флешка?
