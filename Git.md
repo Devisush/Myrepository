@@ -141,6 +141,19 @@ git commit -amend "Message"
 git checkout commitID
 ```
 
+<<<<<<< HEAD
+=======
+Восстановить файл:
+```shell
+git restore ./path/to/file
+```
+
+Перейти в другую ветку:
+```shell
+git switch test
+```
+
+>>>>>>> test
 Удалить локальную ветку
 ```shell
 git branch -d test
@@ -149,4 +162,12 @@ git branch -d test
 Удалить удаленную ветку
 ```shell
 git push origin --delete test
+<<<<<<< HEAD
 ```
+=======
+```
+
+### Слияние веток
+
+тестовый текст
+>>>>>>> test
