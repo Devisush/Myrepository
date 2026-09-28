@@ -136,13 +136,11 @@ git commit -amend "Message"
 
 > **Выйти из режима логов: `Q`**
 
-Переместиться в старый коммит:
+Сделать ветвь ведущей:
 ```shell
-git checkout commitID
+git checkout test
 ```
 
-<<<<<<< HEAD
-=======
 Восстановить файл:
 ```shell
 git restore ./path/to/file
@@ -153,7 +151,6 @@ git restore ./path/to/file
 git switch test
 ```
 
->>>>>>> test
 Удалить локальную ветку
 ```shell
 git branch -d test
@@ -162,12 +159,8 @@ git branch -d test
 Удалить удаленную ветку
 ```shell
 git push origin --delete test
-<<<<<<< HEAD
-```
-=======
 ```
 
 ### Слияние веток
 
 тестовый текст
->>>>>>> test
