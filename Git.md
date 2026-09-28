@@ -135,3 +135,7 @@ git commit -amend "Message"
 ```
 
 > **Выйти из режима логов: `Q`**
+
+```shell
+git checkout id
+```
