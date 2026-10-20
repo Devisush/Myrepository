@@ -10,4 +10,5 @@
 - [Git](./Git.md)
 - [Мой демонстрационный сайт](https://devisush.github.io/my_site/)
 - [Мой демонстрационный сайт (readme)](https://github.com/Devisush/my_site)
-
+- [Сайт магазина питомцев](https://devisush.github.io/pet-shop-site-test/)
+- [Сайт магазина питомцев (readme)](https://github.com/Devisush/pet-shop-site-test/)
