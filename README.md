@@ -9,3 +9,5 @@
 - [Задания по Bash-скриптингу](./Linux/Bash/README.md)
 - [Git](./Git.md)
 - [Мой демонстрационный сайт](https://devisush.github.io/my_site/)
+- [Мой демонстрационный сайт (readme)](https://github.com/Devisush/my_site)
+
